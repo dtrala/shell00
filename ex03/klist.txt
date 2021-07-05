@@ -1,0 +1,6 @@
+Credentials cache: API:FB167565-F167-4FD7-8EED-D2B5BF7B15C7
+        Principal: dlascaba@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Jul  5 17:30:48 2021  Jul  6 03:30:48 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
+Jul  5 17:30:50 2021  Jul  6 03:30:48 2021  HTTP/student-storage.42lausanne.ch@42LAUSANNE.CH
